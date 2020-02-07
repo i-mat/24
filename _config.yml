@@ -1,15 +1,15 @@
 # site settings
 title: Azure
-subtitle: to Kobe Bryant
+subtitle: To Kobe Bryant
 email: imat24@outlook.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Once Upon A Time in Los Angels
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Sean
 street_address: 8&24 LA
 city: Shenzhen
 state: Guangzhou
-zip_code: 55555
+zip_code: 518000
 country: China
 phone: (+86) 13713972908
 
