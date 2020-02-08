@@ -2,7 +2,7 @@
 layout: post
 title: Creampie
 description: Ipsum dolor sit amet
-image: assets/images/pic10.jpg
+image: assets/images/bl03.gif
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
